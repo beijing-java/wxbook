@@ -114,8 +114,6 @@ xx.wxml
     我是模板:{{moban}}
   </view>
 </template>
-<template is="模板" data="{{....mobanA}}"></template>
-<template is="模板" data="{{....mobanB}}"></template>
 xx.js
 Page({
   data:{
