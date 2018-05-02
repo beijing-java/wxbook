@@ -75,6 +75,13 @@
              color:red;
             }
             ```
-
+  - 内联样式
+  
+    1.style:静态的样式统一写到class中，style接收动态的样式，为了不影响渲染速度，建议使用动态加载
+    
+    `<view style="color:{{color}};"></view>`
+    2.class:用于指定样式规则，其属性值是样式规则中类选择器名(样式类名)的集合，样式类名不需要带上.，样式类名之间用空格分隔。
+    
+    `<view class="normal_view" />`
   
      
