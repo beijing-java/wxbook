@@ -7,9 +7,10 @@
   * [小程序基础篇~JSON](wechat-json.md)
   * [小程序基础篇~JS事件](wechat-js.md)
   * [小程序基础篇~WXSS](wechat-wxss.md)
-* [小程序教程视图篇](wechat-small-2.md)
+* [小程序组件视图篇](wechat-small-2.md)
   * [小程序视图篇~VIEW](wechat-s2-view.md)
   * [小程序视图篇~SCROLLVIEW](wechat-s2-scrollview.md)
   * [小程序视图篇~SWIPER](wechat-s2-swiper.md)
+* [小程序组件基础篇](wechat-small-3.md)
 
 
