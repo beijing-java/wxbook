@@ -12,5 +12,9 @@
   * [小程序视图篇~SCROLLVIEW](wechat-s2-scrollview.md)
   * [小程序视图篇~SWIPER](wechat-s2-swiper.md)
 * [小程序组件基础篇](wechat-small-3.md)
+* [小程序教程表单篇](wechat-small-4.md)
+  * [小程序表单篇~BUTTON](wechat-s4-button.md)
+  * [小程序表单篇~选择](wechat-s4-select.md)
+  * [小程序表单篇~INPUT](wechat-s4-input.md)
 
 
